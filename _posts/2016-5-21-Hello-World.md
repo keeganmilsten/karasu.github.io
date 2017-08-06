@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first post!
+title: Antergos Community Editions
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
