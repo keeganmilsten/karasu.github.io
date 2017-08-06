@@ -6,8 +6,7 @@
 name: Antergos Community Editions
 
 # Short bio or description (displayed in the header)
-description: The Antergos Community Edition is an Antergos Linux ISO with Deepin DE as the Live Environment and four new, additional DE's to choose from upon installation! These DE's include Deepin, i3, Enlightenment, and Budgie. Enjoy! 
-![_config.yml]({{ site.baseurl }}/images/deepin.png)
+description: The Antergos Community Edition is an Antergos Linux ISO with Deepin DE as the Live Environment and four new, additional DE's to choose from upon installation! These DE's include Deepin, i3, Enlightenment, and Budgie. Enjoy!![_config.yml]({{ site.baseurl }}/images/deepin.png)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
