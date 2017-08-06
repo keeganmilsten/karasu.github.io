@@ -23,6 +23,14 @@ body {
   color: $darkGray;
 }
 
+.fstPage {
+    background-image:url("https://github.com/keeganmilsten/keeganmilsten.github.io/blob/master/images/deepin4.png");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
