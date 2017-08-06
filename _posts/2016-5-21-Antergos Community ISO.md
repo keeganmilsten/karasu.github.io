@@ -7,4 +7,4 @@ title: Antergos Community Editions
 
 ![_config.yml]({{ site.baseurl }}/images/deepin.png) ![_config.yml]({{ site.baseurl }}/images/deepin2.png) ![_config.yml]({{ site.baseurl }}/images/deepin3.png)
 
-For more Community ISOs, please visit [this](https://github.com/karasu/antergos-community-editions) site. Thank you!
+For more Community ISOs, please visit [this](https://github.com/karasu/antergos-community-editions) site.
