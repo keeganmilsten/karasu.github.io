@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /me/
+permalink: /about/
 ---
 
 I am a Linux enthusiast who wishes to expand the Antergos Project to include as many Desktop Environments and WMs as possible. Each DE caters to a certain sort of individual. It is my hope that through this project, future Antergos users wil be able to choose the DE that best suited for them. 
