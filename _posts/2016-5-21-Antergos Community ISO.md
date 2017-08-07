@@ -8,7 +8,7 @@ title: Antergos Community Editions
 
 - More coming soon!
 
-### The following are smaller ISOs but do not contain a zfs option: ###
+### The following are smaller ISOs that do not contain a zfs option: ###
 - [Hubic](https://hubic.com/home/pub/?ruid=aHR0cHM6Ly9sYjEuaHViaWMub3ZoLm5ldC92MS9BVVRIXzY1MWQ5YmEwNGMyMTZjY2FjOTc4YWVkNjRlOWEwYzZlL2RlZmF1bHQvLm92aFB1Yi8xNTAyMDUyMTQ0XzE1MDI5MTYxNDQ/dGVtcF91cmxfc2lnPTkwODM3NTgwNDY0ZGI0NmUzYzgyNDU0MGNlYTRkZDlhZjAyMzdlMGQmdGVtcF91cmxfZXhwaXJlcz0xNTAyOTE2MTQ0)
 - [Mega](https://mega.nz/#!BDx3TbSB!QfRi8FzVHucRfKhyB98TDZoro6euKAFg2nvnf5NUb_E)
 
