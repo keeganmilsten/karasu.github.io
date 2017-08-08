@@ -6,7 +6,7 @@ title: Antergos Community Editions
 ## Download Locations ##
 - [Hubic](https://hubic.com/home/pub/?ruid=aHR0cHM6Ly9sYjk5MTEuaHViaWMub3ZoLm5ldC92MS9BVVRIXzExYTY3YTdhZjY0MmQ2ZGFhOTFlMGIwZWY3Mjg2OWRlL2RlZmF1bHQvLm92aFB1Yi8xNTAyMDE0ODc1XzE1MDQ2MDY4NzU/dGVtcF91cmxfc2lnPTU3M2U5YmE4MmQ5NTVkYzZmYmY5MTA4MzYwNDllY2YyNzk2YmJlMGYmdGVtcF91cmxfZXhwaXJlcz0xNTA0NjA2ODc1)
 
-- More coming soon!
+- [MediaFire](http://www.mediafire.com/file/54uccccc6fzmtss/antergos-deepin-17.8-x86_64.iso)
 
 ### The following are smaller ISOs that do not contain a zfs option: ###
 - [Hubic](https://hubic.com/home/pub/?ruid=aHR0cHM6Ly9sYjEuaHViaWMub3ZoLm5ldC92MS9BVVRIXzY1MWQ5YmEwNGMyMTZjY2FjOTc4YWVkNjRlOWEwYzZlL2RlZmF1bHQvLm92aFB1Yi8xNTAyMDUyMTQ0XzE1MDI5MTYxNDQ/dGVtcF91cmxfc2lnPTkwODM3NTgwNDY0ZGI0NmUzYzgyNDU0MGNlYTRkZDlhZjAyMzdlMGQmdGVtcF91cmxfZXhwaXJlcz0xNTAyOTE2MTQ0)
