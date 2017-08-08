@@ -11,6 +11,14 @@ description: The Antergos Community Edition is an Antergos Linux ISO with Deepin
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
 
+# header image
+header:
+  image: /images/deepin4.png
+   image_description: "Antergos Deepin"
+   caption: "Antergos Deepin"
+   cta_label: "Download"
+   cta_url: "https://hubic.com/home/pub/?ruid=aHR0cHM6Ly9sYjk5MTEuaHViaWMub3ZoLm5ldC92MS9BVVRIXzExYTY3YTdhZjY0MmQ2ZGFhOTFlMGIwZWY3Mjg2OWRlL2RlZmF1bHQvLm92aFB1Yi8xNTAyMDE0ODc1XzE1MDQ2MDY4NzU/dGVtcF91cmxfc2lnPTU3M2U5YmE4MmQ5NTVkYzZmYmY5MTA4MzYwNDllY2YyNzk2YmJlMGYmdGVtcF91cmxfZXhwaXJlcz0xNTA0NjA2ODc1"
+   
 #
 # Flags below are optional
 #
