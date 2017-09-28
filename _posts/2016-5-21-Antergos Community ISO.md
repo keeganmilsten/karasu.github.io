@@ -3,7 +3,7 @@ layout: post
 title: Antergos Community Editions
 ---
 
-![Deepin_Image](keeganmilsten.github.io/images/deepin.png)
+![Deepin_Image](/images/deepin.png)
 
 
 ## Download Location ##
